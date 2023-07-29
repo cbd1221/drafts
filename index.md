@@ -62,6 +62,10 @@ _(7 17) 370-1850_
 _drafts.application@gmail.com_ <br><br>
 _colinblairdively@gmail.com_
 
+# Screenshots
+
+<img src="https://user-images.githubusercontent.com/92187527/257017391-a5040924-7c63-463f-8477-00c76dd4d31b.png" height="300">
+
 #### Screenshots
   ![image1](https://user-images.githubusercontent.com/92187527/257017387-15e78085-bd47-46c3-874f-74dcc9152d75.jpg)
   ![image2](https://user-images.githubusercontent.com/92187527/257017387-15e78085-bd47-46c3-874f-74dcc9152d75.jpg)
