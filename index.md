@@ -10,6 +10,7 @@ The application is designed to be used offline, it does not collect any data, an
 private until you choose to share them with others — regardless of the platform you choose to share them on
 
 ## another text editor?
+
 > Why can't I save my thread? <br>
 > I accidentally sent that text before I was ready <br>
 > Our wifi went down and I lost all of my work! <br>
@@ -21,7 +22,8 @@ It solves a small, yet extremely annoying problem.
 Users are able to select from a variety of social media platforms which will allow them to view their current character count in 
 realtime and the maximum character count allowed for that platform. 
 
-### features
+## features
+
 * _I always forget to mention this — FREE_  
   * ad free too!
 * realtime character countE
@@ -32,7 +34,8 @@ realtime and the maximum character count allowed for that platform.
 * **Privacy** - this can't be emphasized enough. <br>
 All of your thoughts are store locally on your device and remian private until you choose to change that
 
-#### Upcoming Features
+## Upcoming Features
+
 * support for custom character limits
 * manual adding of selectable platforms with custom character limits _(no one isn't intimidated by a 5 page text message)_
 * support for images/videos, and audio files
@@ -59,11 +62,11 @@ _(7 17) 370-1850_
 _drafts.application@gmail.com_ <br><br>
 _colinblairdively@gmail.com_
 
-# Screenshots
+## Screenshots
 <div style="display: flex">
-  <img src="https://user-images.githubusercontent.com/92187527/257017387-15e78085-bd47-46c3-874f-74dcc9152d75.jpg" style="height: 200px; flex: 1; object-fit: cover;" />
-  <img src="https://user-images.githubusercontent.com/92187527/257017391-a5040924-7c63-463f-8477-00c76dd4d31b.png" style="height: 200px; flex: 1; object-fit: cover;" />
-  <img src="https://user-images.githubusercontent.com/92187527/257017393-b06b5cb1-5141-4ac5-9787-8ec89b230c13.png" style="height: 200px; flex: 1; object-fit: cover;" />
+  ![image1](https://user-images.githubusercontent.com/92187527/257017387-15e78085-bd47-46c3-874f-74dcc9152d75.jpg)
+  ![image2](https://user-images.githubusercontent.com/92187527/257017387-15e78085-bd47-46c3-874f-74dcc9152d75.jpg)
+  ![image3](https://user-images.githubusercontent.com/92187527/257017393-b06b5cb1-5141-4ac5-9787-8ec89b230c13.png)
 </div>
 
 ### Large image
