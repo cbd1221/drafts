@@ -59,9 +59,12 @@ _(7 17) 370-1850_
 _drafts.application@gmail.com_ <br><br>
 _colinblairdively@gmail.com_
 
-![Alt text](https://github.com/cbd1221/drafts/blob/homepage/simulator-home.jpg)
-![Alt text](https://github.com/cbd1221/drafts/blob/homepage/Simulator%20Screenshot%20-%20iPhone%2014%20-%202023-07-28%20at%2022.18.43.png)
-![Alt text](https://github.com/cbd1221/drafts/blob/homepage/Simulator%20Screenshot%20-%20iPhone%2014%20-%202023-07-28%20at%2022.18.43.png)
+# Screenshots
+<div style="display: flex">
+  <img src=https://github.com/cbd1221/drafts/blob/homepage/simulator-home.jpg style="height: 200px; flex: 1; object-fit: cover;" />
+  <img src=https://github.com/cbd1221/drafts/blob/homepage/Simulator%20Screenshot%20-%20iPhone%2014%20-%202023-07-28%20at%2022.18.43.png style="height: 200px; flex: 1; object-fit: cover;" />
+  <img src=https://github.com/cbd1221/drafts/blob/homepage/Simulator%20Screenshot%20-%20iPhone%2014%20-%202023-07-28%20at%2022.18.43.png style="height: 200px; flex: 1; object-fit: cover;" />
+</div>
 
 ### Large image
 ![Alt text](https://github.com/cbd1221/drafts/blob/homepage/Simulator%20Screenshot%20-%20iPhone%2014%20-%202023-07-28%20at%2022.17.25.png)
