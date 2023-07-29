@@ -1,3 +1,5 @@
 title: dr@fts
 description: dr@fts is a simple iOS application for creating and editing notes, posts, threads, tweets, and more
 theme: minima
+minima: 
+  skin: dark
