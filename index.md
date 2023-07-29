@@ -24,7 +24,7 @@ realtime and the maximum character count allowed for that platform.
 ### features
 * _I always forget to mention this — FREE_  
   * ad free too!
-* realtime character count
+* realtime character countE
 * platform specific character limits 
 * * you can exceed these in-app in order to better edit your thoughts
 * support for emojis, glyphs, etc
@@ -61,10 +61,10 @@ _colinblairdively@gmail.com_
 
 # Screenshots
 <div style="display: flex">
-  <img src="https://github.com/cbd1221/drafts/blob/homepage/simulator-home.jpg" style="height: 200px; flex: 1; object-fit: cover;" />
-  <img src="https://github.com/cbd1221/drafts/blob/homepage/Simulator%20Screenshot%20-%20iPhone%2014%20-%202023-07-28%20at%2022.18.43.png" style="height: 200px; flex: 1; object-fit: cover;" />
-  <img src="https://github.com/cbd1221/drafts/blob/homepage/Simulator%20Screenshot%20-%20iPhone%2014%20-%202023-07-28%20at%2022.18.43.png" style="height: 200px; flex: 1; object-fit: cover;" />
+  <img src="https://user-images.githubusercontent.com/92187527/257017387-15e78085-bd47-46c3-874f-74dcc9152d75.jpg" style="height: 200px; flex: 1; object-fit: cover;" />
+  <img src="https://user-images.githubusercontent.com/92187527/257017391-a5040924-7c63-463f-8477-00c76dd4d31b.png" style="height: 200px; flex: 1; object-fit: cover;" />
+  <img src="https://user-images.githubusercontent.com/92187527/257017393-b06b5cb1-5141-4ac5-9787-8ec89b230c13.png" style="height: 200px; flex: 1; object-fit: cover;" />
 </div>
 
 ### Large image
-![simulator screenshot of dr@fts](https://github.com/cbd1221/drafts/blob/c081157ff816a82fd04c7cbf70dfda6ea7eec3a5/Simulator%20Screenshot%20-%20iPhone%2014%20-%202023-07-28%20at%2022.17.25.png)
+![draft deletion](https://user-images.githubusercontent.com/92187527/257017390-9c81e3a1-95e1-4fd0-97a6-6151c14d8a4e.png)
