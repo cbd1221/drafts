@@ -65,15 +65,10 @@ _colinblairdively@gmail.com_
 # Screenshots
 
 <div>
-  <img src="https://user-images.githubusercontent.com/92187527/257017391-a5040924-7c63-463f-8477-00c76dd4d31b.png" height="300">
-  <img src="https://user-images.githubusercontent.com/92187527/257017391-a5040924-7c63-463f-8477-00c76dd4d31b.png" height="300">
-  <img src="https://user-images.githubusercontent.com/92187527/257017391-a5040924-7c63-463f-8477-00c76dd4d31b.png" height="300">
+  <img src="https://user-images.githubusercontent.com/92187527/257017391-a5040924-7c63-463f-8477-00c76dd4d31b.png" height="500">
+  <img src="https://user-images.githubusercontent.com/92187527/257017393-b06b5cb1-5141-4ac5-9787-8ec89b230c13.png" height="500">
+  <img src="https://user-images.githubusercontent.com/92187527/257017390-9c81e3a1-95e1-4fd0-97a6-6151c14d8a4e.png" height="500">
 </div>
 
-#### Screenshots
-  ![image1](https://user-images.githubusercontent.com/92187527/257017387-15e78085-bd47-46c3-874f-74dcc9152d75.jpg)
-  ![image2](https://user-images.githubusercontent.com/92187527/257017387-15e78085-bd47-46c3-874f-74dcc9152d75.jpg)
-  ![image3](https://user-images.githubusercontent.com/92187527/257017393-b06b5cb1-5141-4ac5-9787-8ec89b230c13.png)
-
-### Large image
-![draft deletion](https://user-images.githubusercontent.com/92187527/257017390-9c81e3a1-95e1-4fd0-97a6-6151c14d8a4e.png)
+##
+<hr>
