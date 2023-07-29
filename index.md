@@ -61,12 +61,12 @@ _colinblairdively@gmail.com_
 
 # Screenshots
 <div style="display: flex">
-  <img src=https://github.com/cbd1221/drafts/blob/homepage/simulator-home.jpg style="height: 200px; flex: 1; object-fit: cover;" />
-  <img src=https://github.com/cbd1221/drafts/blob/homepage/Simulator%20Screenshot%20-%20iPhone%2014%20-%202023-07-28%20at%2022.18.43.png style="height: 200px; flex: 1; object-fit: cover;" />
-  <img src=https://github.com/cbd1221/drafts/blob/homepage/Simulator%20Screenshot%20-%20iPhone%2014%20-%202023-07-28%20at%2022.18.43.png style="height: 200px; flex: 1; object-fit: cover;" />
+  <img src="https://github.com/cbd1221/drafts/blob/homepage/simulator-home.jpg" style="height: 200px; flex: 1; object-fit: cover;" />
+  <img src="https://github.com/cbd1221/drafts/blob/homepage/Simulator%20Screenshot%20-%20iPhone%2014%20-%202023-07-28%20at%2022.18.43.png" style="height: 200px; flex: 1; object-fit: cover;" />
+  <img src="https://github.com/cbd1221/drafts/blob/homepage/Simulator%20Screenshot%20-%20iPhone%2014%20-%202023-07-28%20at%2022.18.43.png" style="height: 200px; flex: 1; object-fit: cover;" />
 </div>
 
 ### Large image
-![Alt text](https://github.com/cbd1221/drafts/blob/homepage/Simulator%20Screenshot%20-%20iPhone%2014%20-%202023-07-28%20at%2022.17.25.png)
+![Alt text](https://github.com/cbd1221/drafts/blob/homepage/simulator-home.jpg)
 ![Alt text](https://github.com/cbd1221/drafts/blob/homepage/Simulator%20Screenshot%20-%20iPhone%2014%20-%202023-07-28%20at%2022.14.38.png)
 ![Alt text](https://github.com/cbd1221/drafts/blob/homepage/Simulator%20Screenshot%20-%20iPhone%2014%20-%202023-07-28%20at%2022.14.56.png)
