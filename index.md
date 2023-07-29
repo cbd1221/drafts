@@ -58,10 +58,11 @@ _(7 17) 370-1850_
 ## email
 _drafts.application@gmail.com_ <br><br>
 _colinblairdively@gmail.com_
-#### Small image
+
 ![Alt text](https://github.com/cbd1221/drafts/blob/homepage/Simulator%20Screenshot%20-%20iPhone%2014%20-%202023-07-28%20at%2022.14.51.png)
 ![Alt text](https://github.com/cbd1221/drafts/blob/homepage/Simulator%20Screenshot%20-%20iPhone%2014%20-%202023-07-28%20at%2022.18.43.png)
 ![Alt text](https://github.com/cbd1221/drafts/blob/homepage/Simulator%20Screenshot%20-%20iPhone%2014%20-%202023-07-28%20at%2022.18.43.png)
+
 ### Large image
 ![Alt text](https://github.com/cbd1221/drafts/blob/homepage/Simulator%20Screenshot%20-%20iPhone%2014%20-%202023-07-28%20at%2022.17.25.png)
 ![Alt text](https://github.com/cbd1221/drafts/blob/homepage/Simulator%20Screenshot%20-%20iPhone%2014%20-%202023-07-28%20at%2022.14.38.png)
