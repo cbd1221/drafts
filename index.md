@@ -67,6 +67,4 @@ _colinblairdively@gmail.com_
 </div>
 
 ### Large image
-![Alt text](https://github.com/cbd1221/drafts/blob/homepage/simulator-home.jpg)
-![Alt text](https://github.com/cbd1221/drafts/blob/homepage/Simulator%20Screenshot%20-%20iPhone%2014%20-%202023-07-28%20at%2022.14.38.png)
-![Alt text](https://github.com/cbd1221/drafts/blob/homepage/Simulator%20Screenshot%20-%20iPhone%2014%20-%202023-07-28%20at%2022.14.56.png)
+![simulator screenshot of dr@fts](https://github.com/cbd1221/drafts/blob/c081157ff816a82fd04c7cbf70dfda6ea7eec3a5/Simulator%20Screenshot%20-%20iPhone%2014%20-%202023-07-28%20at%2022.17.25.png)
