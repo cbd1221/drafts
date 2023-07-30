@@ -20,7 +20,7 @@ private until you choose to share them with others — regardless of the platfor
 I heard all of these complaints when my partner downloaded _threads_ and realized there wasn't a simple "draft" feature. This
 application isn't designed to be a one stop shop for all your text-based needs.
 
-----------------
+================
 
 It solves a small, yet extremely annoying problem.
 Users are able to select from a variety of social media platforms which will allow them to view their current character count in
@@ -36,7 +36,6 @@ realtime and the maximum character count allowed for that platform.
 * support for emojis, glyphs, etc
 * save up to 10 dr@fts at a single time — make space as you see fit
 * **Privacy** - this can't be emphasized enough. <br>
-
 
 # upcoming features
 
@@ -59,12 +58,11 @@ realtime and the maximum character count allowed for that platform.
 
 This application is intended to solve a problem, not create one — to remove an inconvenience, and do so for free, in a way that is accessible to everyone. 
 
-
 At no point will **dr@fts** collect any data other than that which is provided by Apple by default. This data is not shared with anyone and contains no identifying traits, and is only used to improve application performance. 
 
 # Contact
 
-----------------
+================
 
 ## phone
 
@@ -75,7 +73,7 @@ _(7 17) 370-1850_
 _drafts.application@gmail.com_ <br>
 _colinblairdively@gmail.com_
 
-----------------;
+================
 
 # Screenshots
 
@@ -93,7 +91,7 @@ _colinblairdively@gmail.com_
 
 ![screenshot of dr@fts](https://user-images.githubusercontent.com/92187527/257017387-15e78085-bd47-46c3-874f-74dcc9152d75.jpg)
 
----------------
+================
 
 # Download
 
