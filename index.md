@@ -44,7 +44,7 @@ All of your thoughts are store locally on your device and remian private until y
 * * assuming I can make that work in a way that is intuitive and easy to use 
 
 ###### Privacy Policy
-[privacy policy](./another-page.html).
+[privacy policy](drafts\index.md).
 <br>
 
 **dr@fts** does not collect any data,
