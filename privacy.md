@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Privacy Policy 1.0"
+permalink: /privacy/
+---
+
 # Privacy Policy
 
 Last updated: July 30, 2023

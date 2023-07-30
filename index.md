@@ -43,17 +43,17 @@ All of your thoughts are store locally on your device and remian private until y
 * support for sharing directly to social media platforms 
 * * assuming I can make that work in a way that is intuitive and easy to use 
 
-###### Privacy Policy
-[privacy policy](index.md)
-<br>
+# Privacy Policy
 
-**dr@fts** does not collect any data,
-will not collect any data, and doesn't _need_ any data. <br><br>
+[privacy policy](privacy.md)
+
+**dr@fts** does not collect any data, will not collect any data, and doesn't _need_ any data.
 99% of the code in this application is for the User Interface, and the remaining just handles the saving and loading of your dr@fts.
 <br><br>
-This application is intended to solve a problem, not create one — to remove an inconvenience, and do so for free, in a way that is accessible to everyone.
-At no point will **dr@fts** collect any data other than anayltics data that is provided by Apple. This data is not shared with anyone and
-contains no identifying traits.
+This application is intended to solve a problem, not create one — to remove an inconvenience, and do so for free, in a way that is accessible to everyone. 
+
+
+At no point will **dr@fts** collect any data other than that which is provided by Apple by default. This data is not shared with anyone and contains no identifying traits, and is only used to improve application performance. 
 
 # Contact
 ---
