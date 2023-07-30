@@ -66,7 +66,7 @@ At no point will **dr@fts** collect any data other than that which is provided b
 
 ## phone
 
-_(7 17) 370-1850_
+_(717) 370-1850_
 
 ## email
 
