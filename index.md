@@ -1,8 +1,11 @@
 ---
 layout: default
+markdown: kramdown
 ---
 # dr@fts
 an ios application that allows users to easily draft posts from some of the most popular social media sites, complete with platform specific character counts/limits
+
+- - -
 
 # about dr@fts
 
@@ -20,7 +23,7 @@ private until you choose to share them with others — regardless of the platfor
 I heard all of these complaints when my partner downloaded _threads_ and realized there wasn't a simple "draft" feature. This
 application isn't designed to be a one stop shop for all your text-based needs.
 
-================
+- - -
 
 It solves a small, yet extremely annoying problem.
 Users are able to select from a variety of social media platforms which will allow them to view their current character count in
@@ -62,7 +65,7 @@ At no point will **dr@fts** collect any data other than that which is provided b
 
 # Contact
 
-================
+- - -
 
 ## phone
 
@@ -73,7 +76,8 @@ _(717) 370-1850_
 _drafts.application@gmail.com_ <br>
 _colinblairdively@gmail.com_
 
-================
+- - -
+- - -
 
 # Screenshots
 
@@ -87,11 +91,9 @@ _colinblairdively@gmail.com_
   <img src="https://user-images.githubusercontent.com/92187527/257017390-9c81e3a1-95e1-4fd0-97a6-6151c14d8a4e.png" height="500">
 </div>
 
-###
+- - -
 
 ![screenshot of dr@fts](https://user-images.githubusercontent.com/92187527/257017387-15e78085-bd47-46c3-874f-74dcc9152d75.jpg)
-
-================
 
 # Download
 
