@@ -3,15 +3,14 @@ layout: default
 markdown: kramdown
 ---
 # dr@fts
-an ios application that allows users to easily draft posts from some of the most popular social media sites, complete with platform specific character counts/limits
 
-- - -
+an ios application that allows users to easily draft posts from some of the most popular social media sites, complete with platform specific character counts/limits
 
 # about dr@fts
 
 **dr@fts** is a lightweight iOS application for all your text-based needs. Simple, fast, and intuitive.
 The application is designed to be used offline, it does not collect any data, and allows your thoughts to remain
-private until you choose to share them with others — regardless of the platform you choose to share them on
+private until you choose to share them with others — regardless of the platform you choose to share them on. <br><br>
 **all of your dr@fts are stored locally on your device, ensuring privacy and accessibility at all times**
 
 # another text editor?
